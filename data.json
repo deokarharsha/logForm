@@ -1,0 +1,36 @@
+{
+   "Users":[
+      {
+         "Userid":"deo@gmail.com",
+         "passwd":"123454"
+      },
+      {
+         "Userid":"om@ymail.com",
+         "passwd":"234123"
+      },
+      {
+         "Userid":"karan@rediff.mail",
+         "passwd":"890767"
+      },
+      {
+         "Userid":"geet@gmail.com",
+         "passwd":"236509"
+      },
+      {
+         "Userid":"aish@ymail.com",
+         "passwd":"666668"
+      },
+      {
+         "Userid":"sonu@gmail.com",
+         "passwd":"978056"
+      },
+      {
+         "Userid":"raj@infotech.com",
+         "passwd":"321321"
+      },
+      {
+         "Userid":"krish@gmail.com",
+         "passwd":"789789"
+      }
+   ]
+}
